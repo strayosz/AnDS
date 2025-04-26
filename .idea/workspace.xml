@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f091cb-d2c3-48d3-9698-983b03ce4a6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/Java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/Java/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/Java/src/main/java/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/Java/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/target/classes/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab01_Stack/Java/target/classes/Stack.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab01_Stack" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
