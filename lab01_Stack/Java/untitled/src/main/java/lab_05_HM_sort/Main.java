@@ -8,7 +8,7 @@ public class Main {
         task2("bly is the sky");
         task3(new int[] {3, 30, 34, 5, 9});
         task4(new int[] {15, 5, 11, 10, 12, 5, 5}, 30);
-        
+
     }
 
     public static void task1(int[] x) {
