@@ -43,7 +43,6 @@ public class Main {
         String result = s + t;
         int tempIndex = s.length() - 1;
         for(int i = 0; i < result.length() - s.length(); i++) {
-
             while (tempIndex>= 0 && s.indexOf(tempIndex) == result.indexOf(answer + tempIndex)) {
                 tempIndex--;
             }

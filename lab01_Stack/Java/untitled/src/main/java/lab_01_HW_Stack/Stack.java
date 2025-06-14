@@ -1,4 +1,4 @@
-package lab_01_Stack;
+package lab_01_HW_Stack;
 
 public class Stack {
     private char value;

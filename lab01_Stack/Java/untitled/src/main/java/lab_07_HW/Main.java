@@ -1,4 +1,4 @@
-package lab_08_HW;
+package lab_07_HW;
 
 public class Main {
     public static void main(String[] args) {
